@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T06:22:36.066Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="gtBi8BEGSeA-hHNX9u07" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T06:27:50.098Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="q198B1OngqnFSnN1Cl1G" version="20.5.3" type="github">
   <diagram id="GfOiD7L5Lf0xXkd3SCVE" name="第 1 页">
     <mxGraphModel dx="1426" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -10,14 +10,29 @@
         <mxCell id="NvlOek_77_1kg0eh45Kx-3" value="service" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="120" width="100" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="NvlOek_77_1kg0eh45Kx-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="NvlOek_77_1kg0eh45Kx-3">
-          <mxGeometry x="45" y="110" width="10" height="180" as="geometry" />
+        <mxCell id="NvlOek_77_1kg0eh45Kx-21" value="数据验证" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="NvlOek_77_1kg0eh45Kx-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="45" y="130" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="75" y="130" />
+            </Array>
+            <mxPoint x="55" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NvlOek_77_1kg0eh45Kx-23" value="生成groovy脚本" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="NvlOek_77_1kg0eh45Kx-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="45" y="340" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="75" y="340" />
+            </Array>
+            <mxPoint x="55" y="360" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="NvlOek_77_1kg0eh45Kx-4" value="user-selector-service" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="670" y="120" width="160" height="480" as="geometry" />
         </mxCell>
         <mxCell id="NvlOek_77_1kg0eh45Kx-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="NvlOek_77_1kg0eh45Kx-4">
-          <mxGeometry x="75" y="130" width="10" height="40" as="geometry" />
+          <mxGeometry x="75" y="170" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NvlOek_77_1kg0eh45Kx-6" value="创建规则" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="NvlOek_77_1kg0eh45Kx-5" parent="1" source="NvlOek_77_1kg0eh45Kx-1">
           <mxGeometry relative="1" as="geometry">
@@ -43,7 +58,10 @@
           <mxGeometry x="920" y="120" width="100" height="480" as="geometry" />
         </mxCell>
         <mxCell id="NvlOek_77_1kg0eh45Kx-15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="NvlOek_77_1kg0eh45Kx-13">
-          <mxGeometry x="45" y="200" width="10" height="60" as="geometry" />
+          <mxGeometry x="45" y="250" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NvlOek_77_1kg0eh45Kx-24" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="NvlOek_77_1kg0eh45Kx-13">
+          <mxGeometry x="45" y="380" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NvlOek_77_1kg0eh45Kx-16" value="人群bitmap存入redis" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="NvlOek_77_1kg0eh45Kx-15" parent="1" source="NvlOek_77_1kg0eh45Kx-3">
           <mxGeometry relative="1" as="geometry">
@@ -54,6 +72,19 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="870" y="370" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="NvlOek_77_1kg0eh45Kx-25" value="存入数据库" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="NvlOek_77_1kg0eh45Kx-24" parent="1" source="NvlOek_77_1kg0eh45Kx-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="895" y="500" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NvlOek_77_1kg0eh45Kx-26" value="返回存储结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=-0.2;exitY=0.775;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="NvlOek_77_1kg0eh45Kx-24" parent="1" target="NvlOek_77_1kg0eh45Kx-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="895" y="576" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NvlOek_77_1kg0eh45Kx-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="480" y="250" width="10" height="360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
