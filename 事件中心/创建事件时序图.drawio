@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T07:49:39.857Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="oty6bK-h0zCenMjBKYdC" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T09:58:44.957Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="49nI1haBPXxj3mHN5LiQ" version="20.5.3" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1426" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CtcR1249ugJmLVbJ5yov-3" value="Facade" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="125" width="100" height="605" as="geometry" />
+          <mxGeometry x="130" y="125" width="100" height="625" as="geometry" />
         </mxCell>
         <mxCell id="CtcR1249ugJmLVbJ5yov-4" value="Service" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="125" width="100" height="610" as="geometry" />
+          <mxGeometry x="340" y="125" width="100" height="630" as="geometry" />
         </mxCell>
         <mxCell id="CtcR1249ugJmLVbJ5yov-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="CtcR1249ugJmLVbJ5yov-4">
-          <mxGeometry x="45" y="95" width="10" height="515" as="geometry" />
+          <mxGeometry x="45" y="95" width="10" height="305" as="geometry" />
         </mxCell>
         <mxCell id="CtcR1249ugJmLVbJ5yov-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="CtcR1249ugJmLVbJ5yov-4">
           <mxGeometry x="50" y="145" width="10" height="40" as="geometry" />
@@ -35,38 +35,54 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CtcR1249ugJmLVbJ5yov-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="CtcR1249ugJmLVbJ5yov-4">
-          <mxGeometry x="50" y="405" width="10" height="40" as="geometry" />
+        <mxCell id="CtcR1249ugJmLVbJ5yov-24" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="CtcR1249ugJmLVbJ5yov-4">
+          <mxGeometry x="45" y="430" width="10" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="CtcR1249ugJmLVbJ5yov-18" value="生成事件属性数据" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;curved=1;elbow=vertical;" edge="1" target="CtcR1249ugJmLVbJ5yov-17" parent="CtcR1249ugJmLVbJ5yov-4">
+        <mxCell id="CtcR1249ugJmLVbJ5yov-27" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="CtcR1249ugJmLVbJ5yov-4">
+          <mxGeometry x="50" y="475" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CtcR1249ugJmLVbJ5yov-28" value="基础数据校验" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;curved=1;elbow=vertical;exitX=1.1;exitY=0.15;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="CtcR1249ugJmLVbJ5yov-27" parent="CtcR1249ugJmLVbJ5yov-4" source="CtcR1249ugJmLVbJ5yov-24">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="55" y="385" as="sourcePoint" />
+            <mxPoint x="60" y="455" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="85" y="385" />
+              <mxPoint x="56" y="455" />
+              <mxPoint x="80" y="455" />
+              <mxPoint x="80" y="475" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CtcR1249ugJmLVbJ5yov-22" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="CtcR1249ugJmLVbJ5yov-4">
-          <mxGeometry x="50" y="505" width="10" height="40" as="geometry" />
+        <mxCell id="CtcR1249ugJmLVbJ5yov-34" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="CtcR1249ugJmLVbJ5yov-4">
+          <mxGeometry x="50" y="345" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CtcR1249ugJmLVbJ5yov-23" value="生成EventVO" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;curved=1;elbow=vertical;" edge="1" target="CtcR1249ugJmLVbJ5yov-22" parent="CtcR1249ugJmLVbJ5yov-4">
+        <mxCell id="CtcR1249ugJmLVbJ5yov-35" value="生成事件VO" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;curved=1;elbow=vertical;" edge="1" target="CtcR1249ugJmLVbJ5yov-34" parent="CtcR1249ugJmLVbJ5yov-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="55" y="485" as="sourcePoint" />
+            <mxPoint x="55" y="325" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="85" y="485" />
+              <mxPoint x="85" y="325" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CtcR1249ugJmLVbJ5yov-38" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="CtcR1249ugJmLVbJ5yov-4">
+          <mxGeometry x="50" y="575" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CtcR1249ugJmLVbJ5yov-39" value="生成创建属性的VO" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;curved=1;elbow=vertical;" edge="1" target="CtcR1249ugJmLVbJ5yov-38" parent="CtcR1249ugJmLVbJ5yov-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="555" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="85" y="555" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="CtcR1249ugJmLVbJ5yov-5" value="Database" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="600" y="125" width="100" height="545" as="geometry" />
+          <mxGeometry x="600" y="125" width="100" height="595" as="geometry" />
         </mxCell>
         <mxCell id="CtcR1249ugJmLVbJ5yov-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="CtcR1249ugJmLVbJ5yov-5">
-          <mxGeometry x="45" y="260" width="10" height="80" as="geometry" />
+          <mxGeometry x="45" y="260" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CtcR1249ugJmLVbJ5yov-19" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="CtcR1249ugJmLVbJ5yov-5">
-          <mxGeometry x="45" y="430" width="10" height="40" as="geometry" />
+        <mxCell id="CtcR1249ugJmLVbJ5yov-29" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="CtcR1249ugJmLVbJ5yov-5">
+          <mxGeometry x="45" y="505" width="10" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="CtcR1249ugJmLVbJ5yov-9" value="创建一条事件的返回" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;curved=1;elbow=vertical;" edge="1" source="CtcR1249ugJmLVbJ5yov-7" parent="1" target="CtcR1249ugJmLVbJ5yov-3">
+        <mxCell id="CtcR1249ugJmLVbJ5yov-9" value="返回创建的事件VO" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;curved=1;elbow=vertical;" edge="1" source="CtcR1249ugJmLVbJ5yov-7" parent="1" target="CtcR1249ugJmLVbJ5yov-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="315" y="296" as="targetPoint" />
           </mxGeometry>
@@ -86,14 +102,24 @@
             <mxPoint x="575" y="456" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CtcR1249ugJmLVbJ5yov-20" value="批量插入事件元数据表" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;curved=1;elbow=vertical;exitX=1;exitY=0.6;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="CtcR1249ugJmLVbJ5yov-19" parent="1" source="CtcR1249ugJmLVbJ5yov-17">
+        <mxCell id="CtcR1249ugJmLVbJ5yov-25" value="创建所属事件属性" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;curved=1;elbow=vertical;" edge="1" target="CtcR1249ugJmLVbJ5yov-24" parent="1" source="CtcR1249ugJmLVbJ5yov-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="575" y="555" as="sourcePoint" />
+            <mxPoint x="315" y="590" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CtcR1249ugJmLVbJ5yov-21" value="获取返回结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;curved=1;elbow=vertical;" edge="1" source="CtcR1249ugJmLVbJ5yov-19" parent="1" target="CtcR1249ugJmLVbJ5yov-7">
+        <mxCell id="CtcR1249ugJmLVbJ5yov-26" value="返回创建事件属性的VO" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;curved=1;elbow=vertical;" edge="1" source="CtcR1249ugJmLVbJ5yov-24" parent="1" target="CtcR1249ugJmLVbJ5yov-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="450" y="593" as="targetPoint" />
+            <mxPoint x="315" y="666" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CtcR1249ugJmLVbJ5yov-30" value="批量插入多条属性" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;curved=1;elbow=vertical;exitX=1.2;exitY=0.725;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="CtcR1249ugJmLVbJ5yov-29" parent="1" source="CtcR1249ugJmLVbJ5yov-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="575" y="630" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CtcR1249ugJmLVbJ5yov-31" value="获取返回结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;curved=1;elbow=vertical;" edge="1" source="CtcR1249ugJmLVbJ5yov-29" parent="1" target="CtcR1249ugJmLVbJ5yov-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="663" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
