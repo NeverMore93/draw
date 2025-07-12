@@ -163,6 +163,33 @@
         <mxCell id="ZC2IetR7V1KJigsSQUW3-94" value="&lt;div&gt;收单SOA服务&lt;/div&gt;&lt;div&gt;&lt;div&gt;fnc-payment-external-payment-soa-service&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="162.5" y="495" width="285" height="55" as="geometry" />
         </mxCell>
+        <mxCell id="ocZN8uN6IypTJF-HbQKt-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="225" y="600" width="160" height="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ocZN8uN6IypTJF-HbQKt-2" value="退款" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="235" y="607.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ocZN8uN6IypTJF-HbQKt-3" value="&lt;div&gt;退款中心&lt;/div&gt;&lt;div&gt;rrefund-center&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="246.25" y="628.75" width="117.5" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="ocZN8uN6IypTJF-HbQKt-4" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-670" y="880" width="420" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="ocZN8uN6IypTJF-HbQKt-5" value="大系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-655" y="890" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ocZN8uN6IypTJF-HbQKt-6" value="中文支付前置&lt;div&gt;unified-prepayment-core&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-655" y="920" width="165" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ocZN8uN6IypTJF-HbQKt-7" value="IBU支付前置&lt;div&gt;unified-prepayment-core&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="920" width="165" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ocZN8uN6IypTJF-HbQKt-8" value="IBU云上支付前置&lt;div&gt;unified-prepayment-core&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-652.5" y="1020" width="165" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ocZN8uN6IypTJF-HbQKt-9" value="IBU云上PCI支付前置&lt;div&gt;unified-prepayment-core&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="1020" width="165" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
