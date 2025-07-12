@@ -1,0 +1,169 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="28.0.3">
+  <diagram name="Page-1" id="2tqqhf2c_19uDufI840o">
+    <mxGraphModel dx="3166" dy="1133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-775" y="40" width="495" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-3" value="收银台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-4" value="H5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-5" value="online" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-670" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-6" value="H5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-567.5" y="140" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-7" value="android" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-670" y="140" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-8" value="APP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-9" value="小程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-10" value="ios" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="140" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-11" value="native" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="140" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-12" value="&lt;div style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color:#008000;font-weight:bold;&quot;&gt;offline&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="140" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-14" value="&lt;div style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;pre style=&quot;text-align: left; font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;span style=&quot;color: rgb(0, 128, 0); font-weight: bold;&quot;&gt;MiniProgram&lt;/span&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-15" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="40" width="350" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-16" value="业务BU" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-17" value="大住宿" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-18" value="机票" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="130" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-19" value="TrainPal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-20" value="skyscanner" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-21" value="yongan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="130" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-23" value="Zhixing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="130" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-43" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-777.5" y="260" width="495" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-44" value="支付路由" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-762.5" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-45" value="路由前置&lt;div&gt;router-front-cashier&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-762.5" y="300" width="122.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-49" value="路由核心&lt;div&gt;payment-router-service&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="300" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-54" value="&lt;div style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;pre style=&quot;&quot;&gt;&lt;pre style=&quot;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; white-space: normal; background-color: rgb(236, 236, 236);&quot;&gt;路由核心前置&lt;/span&gt;&lt;div style=&quot;font-family: Helvetica; white-space: normal; background-color: rgb(236, 236, 236);&quot;&gt;payment-router-core-service&lt;/div&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="300" width="167.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-55" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="260" width="540" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-57" value="&lt;div&gt;中台交易核心&lt;/div&gt;&lt;div&gt;trade-core&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="122.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-58" value="&lt;div&gt;支付CBU统一传参服务&lt;/div&gt;&lt;div&gt;fnc-payment-unified-api-service&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-232.5" y="300" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-60" value="交易" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-61" value="&lt;div&gt;&lt;span style=&quot;color: rgb(103, 106, 108); font-family: &amp;quot;Microsoft Yahei&amp;quot;, Arial, Helvetica, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;聚合交易兼容服务&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(103, 106, 108); font-family: &amp;quot;Microsoft Yahei&amp;quot;, Arial, Helvetica, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;fnc-trade-compat-internal-service&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="300" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-64" value="&lt;div&gt;支付CBU基础服务&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;fnc-payment-cbu-base-service-service&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-232.5" y="360" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-65" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-780" y="460" width="420" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-66" value="支付前置" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-765" y="470" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-67" value="中文支付前置&lt;div&gt;unified-prepayment-core&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-765" y="500" width="165" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-70" value="IBU支付前置&lt;div&gt;unified-prepayment-core&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="500" width="165" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-73" value="IBU云上支付前置&lt;div&gt;unified-prepayment-core&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-762.5" y="600" width="165" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-74" value="IBU云上PCI支付前置&lt;div&gt;unified-prepayment-core&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="600" width="165" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-75" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="460" width="420" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-76" value="支付中台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-285" y="470" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-77" value="&lt;div&gt;预支付SOA服务&lt;/div&gt;&lt;div&gt;payment-base-reset-service&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-285" y="500" width="165" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-78" value="&lt;div&gt;支付核心&lt;/div&gt;&lt;div&gt;middle-payPaying&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="500" width="165" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-79" value="二次路由配置系统&lt;div&gt;fnc-pay-ppi-query&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-282.5" y="600" width="165" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-80" value="支付执行&lt;div&gt;middle-payExecution&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="600" width="165" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-81" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="180" y="40" width="370" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-82" value="后付" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="45" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-83" value="&lt;div&gt;老后付&lt;/div&gt;&lt;div&gt;PaymentLBService&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="77.5" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-87" value="&lt;div&gt;新后付&lt;/div&gt;&lt;div&gt;middle-PaymentLBService&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="77.5" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-88" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="330" y="267.5" width="200" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-89" value="商户合约" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="272.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-90" value="&lt;div&gt;聚合支付合同系统&lt;/div&gt;&lt;div&gt;aggregate-merchant-contract&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="307.5" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-92" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="140" y="460" width="340" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-93" value="收单" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="175" y="470" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZC2IetR7V1KJigsSQUW3-94" value="&lt;div&gt;收单SOA服务&lt;/div&gt;&lt;div&gt;&lt;div&gt;fnc-payment-external-payment-soa-service&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="162.5" y="495" width="285" height="55" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
