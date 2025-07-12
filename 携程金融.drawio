@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="28.0.3">
   <diagram name="Page-1" id="2tqqhf2c_19uDufI840o">
-    <mxGraphModel dx="3166" dy="1133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
+    <mxGraphModel dx="2526" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -164,31 +164,106 @@
           <mxGeometry x="162.5" y="495" width="285" height="55" as="geometry" />
         </mxCell>
         <mxCell id="ocZN8uN6IypTJF-HbQKt-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="225" y="600" width="160" height="102.5" as="geometry" />
+          <mxGeometry x="-723.75" y="1150" width="160" height="102.5" as="geometry" />
         </mxCell>
         <mxCell id="ocZN8uN6IypTJF-HbQKt-2" value="退款" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="235" y="607.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="-718.75" y="1150" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ocZN8uN6IypTJF-HbQKt-3" value="&lt;div&gt;退款中心&lt;/div&gt;&lt;div&gt;rrefund-center&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="246.25" y="628.75" width="117.5" height="45" as="geometry" />
+        <mxCell id="ocZN8uN6IypTJF-HbQKt-3" value="&lt;div&gt;退款中心&lt;/div&gt;&lt;div&gt;refund-center&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-702.5" y="1178.75" width="117.5" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="ocZN8uN6IypTJF-HbQKt-4" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-670" y="880" width="420" height="230" as="geometry" />
+        <mxCell id="ocZN8uN6IypTJF-HbQKt-4" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bdiv%26gt%3B%26lt%3Bdiv%26gt%3B%E6%94%AF%E4%BB%98%E5%B9%B3%E5%8F%B0%E6%94%AF%E4%BB%98%E4%BA%A7%E5%93%81java%E6%9C%8D%E5%8A%A1%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3Bfnc-payment-ppi-paypaying-service%26lt%3B%2Fdiv%26gt%3B%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-210%22%20y%3D%221020%22%20width%3D%22255%22%20height%3D%2270%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-780" y="760" width="780" height="230" as="geometry" />
         </mxCell>
         <mxCell id="ocZN8uN6IypTJF-HbQKt-5" value="大系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-655" y="890" width="60" height="30" as="geometry" />
+          <mxGeometry x="-765" y="770" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ocZN8uN6IypTJF-HbQKt-6" value="中文支付前置&lt;div&gt;unified-prepayment-core&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-655" y="920" width="165" height="70" as="geometry" />
+        <mxCell id="ocZN8uN6IypTJF-HbQKt-6" value="老支付前置&lt;div&gt;cbu-api-service&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-765" y="800" width="165" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ocZN8uN6IypTJF-HbQKt-7" value="IBU支付前置&lt;div&gt;unified-prepayment-core&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-470" y="920" width="165" height="70" as="geometry" />
+        <mxCell id="ocZN8uN6IypTJF-HbQKt-7" value="&lt;div&gt;支付兼容层&lt;/div&gt;&lt;div&gt;fnc-payment-ppi-paybilljoin-service&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-575" y="800" width="255" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ocZN8uN6IypTJF-HbQKt-8" value="IBU云上支付前置&lt;div&gt;unified-prepayment-core&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-652.5" y="1020" width="165" height="70" as="geometry" />
+        <mxCell id="ocZN8uN6IypTJF-HbQKt-8" value="资金处理&lt;div&gt;&lt;span style=&quot;color: rgb(102, 102, 102); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 14px; letter-spacing: 0.14994px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;fnc-ppi-payfundprocess-service&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="910" width="232.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ocZN8uN6IypTJF-HbQKt-9" value="IBU云上PCI支付前置&lt;div&gt;unified-prepayment-core&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-470" y="1020" width="165" height="70" as="geometry" />
+        <mxCell id="ocZN8uN6IypTJF-HbQKt-10" value="&lt;div&gt;&lt;div&gt;支付平台支付产品java服务&lt;/div&gt;&lt;div&gt;fnc-payment-ppi-paypaying-service&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="910" width="255" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ocZN8uN6IypTJF-HbQKt-11" value="&lt;div&gt;支付执行&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;fnc-ppi-payexecution-service&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="800" width="255" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ocZN8uN6IypTJF-HbQKt-12" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="120" y="600" width="430" height="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ocZN8uN6IypTJF-HbQKt-13" value="去哪儿" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ocZN8uN6IypTJF-HbQKt-14" value="&lt;div&gt;Qunar交易核心&lt;/div&gt;&lt;div&gt;pay-server&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="136.25" y="628.75" width="117.5" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="ocZN8uN6IypTJF-HbQKt-15" value="&lt;div&gt;中台Qunar交易兼容层&lt;/div&gt;&lt;div&gt;fnc-trade-compact-fnc-service&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="285" y="628.75" width="230" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="ocZN8uN6IypTJF-HbQKt-16" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-757.5" y="1020.62" width="227.5" height="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ocZN8uN6IypTJF-HbQKt-17" value="保险分账" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-752.5" y="1020.62" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ocZN8uN6IypTJF-HbQKt-18" value="&lt;div&gt;保险分账&lt;/div&gt;&lt;div&gt;payment-account-split&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="1050.62" width="170" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="ocZN8uN6IypTJF-HbQKt-19" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-487.5" y="1035" width="330" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ocZN8uN6IypTJF-HbQKt-20" value="清结算" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-477.5" y="1035" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ocZN8uN6IypTJF-HbQKt-21" value="&lt;div&gt;&lt;span style=&quot;color: rgb(102, 102, 102); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 14px; letter-spacing: 0.14994px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;支付流水记录&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;fnc-paymentrecord-service&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-406.24" y="1069.3700000000001" width="167.5" height="53.75" as="geometry" />
+        </mxCell>
+        <mxCell id="ocZN8uN6IypTJF-HbQKt-22" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="30" y="760" width="515" height="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ocZN8uN6IypTJF-HbQKt-23" value="卡服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="35" y="760" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ocZN8uN6IypTJF-HbQKt-24" value="&lt;div&gt;&lt;div&gt;聚合支付支付协议管理服务&lt;/div&gt;&lt;div&gt;fnc-pay-protocol-manage-service&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="51.25" y="788.75" width="243.75" height="56.25" as="geometry" />
+        </mxCell>
+        <mxCell id="ocZN8uN6IypTJF-HbQKt-25" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(102, 102, 102); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 14px; letter-spacing: 0.14994px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;聚合支付清算交易数据落地服务&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;fnc-aggregate-liquidation-landing-service&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-470.62" y="1135" width="290" height="53.75" as="geometry" />
+        </mxCell>
+        <mxCell id="ocZN8uN6IypTJF-HbQKt-26" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;聚合支付结算交易数据落地服务&lt;/div&gt;&lt;div&gt;fnc-aggregate-settlement-landing-service&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-464.36" y="1205" width="283.75" height="53.75" as="geometry" />
+        </mxCell>
+        <mxCell id="ocZN8uN6IypTJF-HbQKt-27" value="&lt;div&gt;&lt;div&gt;卡核心服务非PCI版&lt;/div&gt;&lt;div&gt;fnc-plain-pay-card-service&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="313.13" y="790" width="211.87" height="56.25" as="geometry" />
+        </mxCell>
+        <mxCell id="ocZN8uN6IypTJF-HbQKt-28" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="12.5" y="900" width="550" height="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ocZN8uN6IypTJF-HbQKt-29" value="风控" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="17.5" y="900" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ocZN8uN6IypTJF-HbQKt-30" value="&lt;div&gt;&lt;span style=&quot;color: rgb(102, 102, 102); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 14px; letter-spacing: 0.14994px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;反欺诈平台_风控接入层&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;rsk-eventdispatcher-service&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="33.75" y="928.75" width="243.75" height="56.25" as="geometry" />
+        </mxCell>
+        <mxCell id="ocZN8uN6IypTJF-HbQKt-32" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-size: 14px; letter-spacing: 0.14994px; white-space-collapse: preserve;&quot;&gt;&lt;font face=&quot;-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji&quot; color=&quot;#666666&quot;&gt;汇融风控-风险事件接入层&lt;br&gt;rsk-ocpay-event-dispatcher-service&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="298.63" y="928.75" width="243.75" height="56.25" as="geometry" />
+        </mxCell>
+        <mxCell id="ocZN8uN6IypTJF-HbQKt-33" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="1035" width="400" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="ocZN8uN6IypTJF-HbQKt-34" value="网关" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="1035" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ocZN8uN6IypTJF-HbQKt-35" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji&quot; color=&quot;#666666&quot;&gt;&lt;span style=&quot;font-size: 14px; letter-spacing: 0.14994px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;Auth&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-72.5" y="1065" width="112.5" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="ocZN8uN6IypTJF-HbQKt-37" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;RTP&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="77.5" y="1060" width="125" height="48.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
